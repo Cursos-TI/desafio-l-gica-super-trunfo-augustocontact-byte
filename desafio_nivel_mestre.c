@@ -7,6 +7,8 @@
 /*No nível Mestre, o desafio se intensifica com a adição de funcionalidades avançadas, 
 como menus dinâmicos e lógica de decisão complexa com operadores ternários.*/
 
+// Jogo de poder entre o usuario e maquina, tem a lógica e desafio de quem consegue fornecer o valor maior 
+
 int main (){
 
     int jogador, computador, resultado;
